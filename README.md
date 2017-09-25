@@ -1,4 +1,4 @@
-# HelloWorld
+# Hello World
 Hello
 This is my first program in GitHub
-Testing te changes
+Testing the changes
